@@ -6,6 +6,8 @@ Near_arweave_tutorial
 
 This [React] app was initialized with [create-near-app]
 
+https://stenlisuryadinata.github.io/NEAR_Arweave_Tutorial/NEAR-Arweave-Tutorial/src/index.html
+
 
 Quick Start
 ===========

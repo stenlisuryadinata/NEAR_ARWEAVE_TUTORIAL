@@ -1,0 +1,1 @@
+C:\users\DELL\documents\NEAR-Arweave-Tutorial\NEAR-Arweave-Tutorial\contract\target\wasm32-unknown-unknown\release\greeter.wasm: C:\users\DELL\documents\NEAR-Arweave-Tutorial\NEAR-Arweave-Tutorial\contract\src\lib.rs
